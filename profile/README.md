@@ -1,46 +1,23 @@
-# Open Source Programming Club (OSPC) - VIT Chennai
+![image](https://github.com/OSPC-VITC/.github/blob/main/profile/image/banner.png)
 
-<p align="center">
-  <img src="image/logo.png" alt="OSPC Logo" width="150">
-</p>
+<div align="center"><h1>Open Source Programming Club (OSPC) – VIT Chennai</h1></div>
 
-Welcome to the **Open Source Programming Club (OSPC)**! We're a community of passionate developers, designers, and tech enthusiasts at VIT Chennai, dedicated to promoting open-source development and fostering innovation.
+**OSPC** is a community of developers, designers, and technology enthusiasts dedicated to building impactful, open-source-driven solutions.
 
-## 🚀 Mission
+## Mission
 
-Our mission is to inspire and empower students to contribute to open-source projects, enhance their technical skills, and become active participants in the global developer community.
+We are committed to helping students grow through hands-on development, collaboration, and contribution to real-world open-source projects. Our aim is to empower members to move beyond theory and engage in practical work that drives innovation.
 
-## 🛠 Activities
+## Focus Areas
 
-As a member of OSPC, you'll get to engage in various activities that support our mission:
+OSPC is structured around specialized departments, each focusing on specific domains:
 
-- **Workshops:** Interactive sessions on trending technologies, programming languages, and tools
-- **Hackathons:** Quick, challenging coding events to test and build your problem-solving skills
-- **Projects:** Opportunities to collaborate on real-world projects, contributing to the open-source ecosystem
-- **Meetups:** Regular meetings to discuss the latest in tech, share ideas, and network
+- **AI/ML** – Applied machine learning and AI-driven tools
+- **Blockchain** – Building Decentralized and web3 applications
+- **Cybersecurity** – Offensive/defensive security, CTFs, and tooling
+- **Development** – Full-stack and software engineering projects
+- **Open Source** – Contribution to external repositories and standards
+- **Game Development** – Game design, mechanics, and interactive experiences
+- **Robotics & IoT** – Hardware-driven development and automation
 
-## 🎉 Events
-
-Throughout the year, we organize events like:
-
-- **Hackathons**
-- **Coding Challenges**
-- **Guest Talks** with industry professionals
-- **Open-source Sprints**
-
-## 🌟 Join Us
-
-Whether you're a beginner or an experienced developer, OSPC welcomes everyone who shares a passion for open-source! Join us to learn, code, and connect with like-minded individuals.
-
-## 📫 Contact
-
-For any inquiries or to get involved, reach out to us via:
-
-[![Email](https://img.shields.io/badge/Email-opensourceprogrammingclub.vitc%40gmail.com-red)](mailto:opensourceprogrammingclub.vitc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OpenSource_Programming_Club_VITC-blue)](https://www.linkedin.com/company/opensource-programming-club-vitc/)
-[![GitHub](https://img.shields.io/badge/GitHub-OSPC--VITC-black)](https://github.com/OSPC-VITC)
-
-## 📊 Stats
-
-[![GitHub Stars](https://img.shields.io/github/stars/OSPC-VITC?style=social)](https://github.com/OSPC-VITC)
-[![GitHub Forks](https://img.shields.io/github/forks/OSPC-VITC/OSPC-VITC?style=social)](https://github.com/OSPC-VITC)
+Feel free to reach out to us for open source collaborations.
